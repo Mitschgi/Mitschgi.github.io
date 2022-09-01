@@ -1,0 +1,30 @@
+{
+    "id": "Leicom_Building",
+    "name": "Leicom Building",
+    "models": [
+        {
+            "id": "building",
+            "name": "building",
+            "position": [
+                -100,
+                0,
+                0
+            ],
+            "saoEnabled": true
+        }
+    ],
+    "viewerConfigs": {
+        "externalMetadata": true,
+        "backgroundColor": [
+            0.95,
+            0.95,
+            1.0
+        ]
+    },
+    "viewerContent": {
+        "modelsLoaded": [
+            "building",
+            "Leicom_Building"
+        ]
+    }
+}
