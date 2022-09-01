@@ -4,7 +4,7 @@
     "models": [
         {
             "id": "design",
-            "name": "LeicomBuilding",
+            "name": "Leicom Building",
             "backfaces": false
         }
     ],
