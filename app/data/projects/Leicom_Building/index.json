@@ -1,20 +1,14 @@
 {
     "id": "Leicom_Building",
-    "name": "Leicom Building",
+    "name": "LeicomBuilding",
     "models": [
         {
-            "id": "building",
-            "name": "building",
-            "position": [
-                -100,
-                0,
-                0
-            ],
-            "saoEnabled": true
+            "id": "design",
+            "name": "Leicom Building",
+            "backfaces": false
         }
     ],
     "viewerConfigs": {
-        "externalMetadata": true,
         "backgroundColor": [
             0.95,
             0.95,
@@ -23,8 +17,15 @@
     },
     "viewerContent": {
         "modelsLoaded": [
-            "building",
-            "Leicom_Building"
+            "design"
         ]
+    },
+    "viewerState": {
+        "tabOpen": "classes",
+        "expandObjectsTree": 3,
+        "expandClassesTree": 1,
+        "expandStoreysTree": 1,
+        "saoEnabled": "true",
+        "objectColorSource": "viewer"
     }
 }
