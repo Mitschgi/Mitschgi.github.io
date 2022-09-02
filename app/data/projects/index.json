@@ -55,6 +55,10 @@
     {
       "id": "Leicom_Building",
       "name": "Leicom Building"
+    },
+    {
+      "id": "Test",
+      "name": "Test Building"
     }
   ]
 }
