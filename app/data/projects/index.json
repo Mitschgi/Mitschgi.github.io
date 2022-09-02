@@ -59,6 +59,10 @@
     {
       "id": "Test",
       "name": "Test Building"
+    },
+    {
+      "id": "Test2",
+      "name": "Test Building"
     }
   ]
 }
