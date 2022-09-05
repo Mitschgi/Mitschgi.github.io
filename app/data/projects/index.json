@@ -63,6 +63,10 @@
     {
       "id": "Test2",
       "name": "Test Building"
+    },
+    {
+      "id": "Test3",
+      "name": "Test Building"
     }
   ]
 }
